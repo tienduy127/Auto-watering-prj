@@ -1,2 +1,2 @@
 # Auto-watering-prj
-Auto Watering Water Project with anh.lh3797@sis.hust.edu.vn and hiep.nh3912@sis.hust.edu.vn
+Auto Watering Water Project using Arduino Nano, DHT11, Dust Sensor, duy.ntt213848 with anh.lh3797 and hiep.nh3912 (@sis.hust.edu.vn)
